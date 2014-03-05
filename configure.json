@@ -1,6 +1,6 @@
 {
   "time"  : "1393418622003",
-  "regen" : false,
-  "max"   : 15,
+  "regen" : true,
+  "max"   : 1,
   "ver"   : 100
 }
